@@ -5,7 +5,7 @@ This Power BI dashboard provides an insightful analysis of Zomato data, showcasi
 ---
 
 # **Screenshot** 
-![Alt text](image-url)
+![Alt text](Zomato Restaurant Analysis/Dashboard Screenshot.png)
 
 ---
 
