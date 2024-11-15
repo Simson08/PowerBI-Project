@@ -97,10 +97,3 @@ Contributions are welcome! To contribute to this project:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-## **Acknowledgments**
-- **Zomato Dataset**: Thanks to Zomato for providing the data through their API.
-- **Power BI**: For providing the platform to create visually engaging dashboards.
-- **Data Visualization Resources**: Tutorials and guides from the Power BI community that helped in creating effective visualizations.
-
----
