@@ -1,11 +1,11 @@
-# Zomato Data Analysis
-Here's a sample README file for your Power BI dashboard on Zomato data analysis:
-
----
-
 # **Zomato Data Analysis Dashboard**
 
 This Power BI dashboard provides an insightful analysis of Zomato data, showcasing various trends and metrics from restaurants and user reviews. The analysis helps to understand the patterns in restaurant ratings, cuisines, locations, and much more, offering a comprehensive view of the food delivery industry.
+
+---
+
+# **Screenshot** 
+![Alt text](image-url)
 
 ---
 
@@ -104,6 +104,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Data Visualization Resources**: Tutorials and guides from the Power BI community that helped in creating effective visualizations.
 
 ---
-
-
-![Alt text](image-url)
